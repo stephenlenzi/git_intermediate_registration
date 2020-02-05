@@ -3,9 +3,12 @@
 Hi, to register to the next course about GIT, please do as follows:
 
 1. fork this repository to your github account,
-2. in your fork, make some changes to the `CHANGEME.md` file,
-3. commit your changes and push them online.
+2. clone the forked repository on your computer,
+3. make some changes to the `CHANGEME.md` file,
+4. commit these changes,
+5. push the new commit(s) to your online repository,
+6. send me an email at maxime.rio@ucl.ac.uk with a link to your repository on github.
 
-If your forked repository is online, with the requested change, on the 26th of February, congratulations, you are in!
+Registrations close on the 23rd of February.
 
 Maxime.
